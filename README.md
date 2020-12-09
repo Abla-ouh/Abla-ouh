@@ -1,4 +1,4 @@
-### Hello world ! 👋
+### Hello world ! I'm Abla 👋
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning pointers and memory management.
