@@ -5,4 +5,4 @@
 - 💬 Ask me about any tech related stuffs,**feel free !**
 - 📫 How to reach me: [@Abla_ouhaga](https://www.linkedin.com/in/abla-ouhaga-74aa59188/)
 
-![My stat](https://github-readme-stats.vercel.app/api?username=Abla-ouh&&show_icons=true&title_color=9ED9CCFF&icon_color=F3DB74FF&text_color=&bg_color=EF6079FF)
+![My stat](https://github-readme-stats.vercel.app/api?username=Abla-ouh&&show_icons=true&title_color=D18EEE&icon_color=DBA5F3&text_color=FFFFFF&bg_color=7C7C7C)
