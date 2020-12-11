@@ -1,5 +1,5 @@
 ### Hello world ! I'm Abla 👋
-- An 18 yo geek with a high passion for tech.Programming is what i love to do !
+- An 18 yo geek with a high passion for tech.Programming is what i love to do <3 !
 ### U're welcome and lets enjoy the journey of learning !
 
 - 🔭 I’m currently working on something.
