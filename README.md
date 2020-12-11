@@ -1,6 +1,8 @@
 ### Hello world ! I'm Abla 👋
+- An 18 yo geek with a high passion for tech.Programming is what i love to do !
+### U're welcome and lets enjoy the journey of learning !
 
-- 🔭 I’m currently working on my portfolio.
+- 🔭 I’m currently working on something.
 - 🌱 I’m currently learning pointers and memory management.
 - 💬 Ask me about any tech related stuffs, **Feel free !**
 - 📫 How to reach me: [@Abla_ouhaga](https://www.linkedin.com/in/abla-ouhaga-74aa59188/)
