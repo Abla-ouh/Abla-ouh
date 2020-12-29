@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning pointers and memory management.
 - 👯 I’m looking to collaborate on any interesting projects, hit me up
 - 💬 Ask me about any tech related stuffs, **Feel free !**
-- 📫 How to reach me: [@Abla_ouhaga](https://www.linkedin.com/in/abla-ouhaga-74aa59188/)
+- 📫 How to reach me: [@Abla_ouhaga](https://www.linkedin.com/in/abla-ouhaga-74aa59188/) / Ouhagaabla@gmail.com
 - ⚡ Fun fact: I even do non computer things sometimes.
 
 ### 🏆 My Github Stats:
