@@ -1,6 +1,6 @@
 ### Guten Tag 👋, Ich bin Abla.
    (und that's all the german i know : )))
-- An 18 yo geek with a high passion for tech.Programming is what i love to do <3 !
+- An 19 yo geek with a high passion for tech.Programming is what i love to do <3 !
 ### U're welcome and lets enjoy the journey of learning !
 
 - 🔭 I’m currently working on something.
