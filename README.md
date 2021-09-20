@@ -11,6 +11,5 @@
 - ⚡ Fun fact: I even do non computer things sometimes.
 
 ### 🏆 My Github Stats:
-| ![My stat](https://github-readme-stats.vercel.app/api?username=Abla-ouh&&show_icons=true&title_color=DAF7A6&icon_color=FFCD10&text_color=FFE8C0&bg_color=17202A)|![languages state](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Abla-ouh&hide=php&theme=tokyonight)
-|
+| ![My stat](https://github-readme-stats.vercel.app/api?username=Abla-ouh&&show_icons=true&title_color=DAF7A6&icon_color=FFCD10&text_color=FFE8C0&bg_color=17202A)|![languages state](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Abla-ouh&hide=php&theme=tokyonight)|
 
