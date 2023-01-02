@@ -1,7 +1,6 @@
 
-### Guten Tag 👋, Ich bin Abla.
-   (und that's all the german i know : )))
-- 20 yo geek with passion for tech. She codes, draws, commits!
+## Hey, I'm Abla 👋
+   - 20 yo geek with passion for tech. She codes, draws, commits!
 ### U're welcome and lets enjoy the journey of learning !
 
 <p align="center">
