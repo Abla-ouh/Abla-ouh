@@ -1,7 +1,7 @@
 
 ## Hey, I'm Abla 👋
    - 20 yo geek with passion for tech. She codes, draws, commits!
-### U're welcome and lets enjoy the journey of learning !
+<h2 align="center">U're welcome and lets enjoy the journey of learning !</h2>
 
 <p align="center">
 <img  src="https://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2014/12/BloodKnowledge2.gif" width="950" height="300"  /><br><br>
