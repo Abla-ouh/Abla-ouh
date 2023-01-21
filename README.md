@@ -1,6 +1,6 @@
 
 ## Hey, I'm Abla 👋
-   - 20 yo geek with passion for tech. She codes, draws, commits!
+   - 21 yo geek with passion for tech. She codes, draws, commits!
 <h2 align="center">U're welcome and lets enjoy the journey of learning !</h2>
 
 <p align="center">
