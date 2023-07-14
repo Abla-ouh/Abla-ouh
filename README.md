@@ -1,14 +1,14 @@
 
 ## Hey, I'm Abla 👋
-   - ? yo geek with passion for tech. She codes, draws, commits!
-<h2 align="center">U're welcome and lets enjoy the journey of learning !</h2>
+   - ? yo geek with a passion for tech. She codes, draws, and commits!
+<h2 align="center">U're welcome and let's enjoy the journey of learning !</h2>
 
 <p align="center">
 <img  src="https://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2014/12/BloodKnowledge2.gif" width="950" height="300"  /><br><br>
 </p>
 
-- 🔭 I’m currently practicing cpp.
-- 🌱 I’m currently learning about a banch of CS stuffs (Data structures / Linux & UNIx system / Memory mnagement).
+- 🔭 I’m currently working on building a webserver.
+- 🌱 I’m currently learning about a bunch of CS stuffs (Data structures / Linux & UNIx system / Memory management).
 - 👯 I’m looking to collaborate on any interesting projects, hit me up !!
 - 💬 Ask me about any tech related stuffs, **Feel free !**
 - 📫 How to reach me: [@Abla_ouhaga](https://www.linkedin.com/in/abla-ouhaga-74aa59188/) / Ouhagaabla@gmail.com
