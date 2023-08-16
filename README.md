@@ -7,6 +7,11 @@
 <img  src="https://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2014/12/BloodKnowledge2.gif" width="950" height="300"  /><br><br>
 </p>
 
+<p align="center"> 
+  <strong>Visitor Count</strong> <br> <br>
+  <img src="https://profile-counter.glitch.me/Abla-ouh/count.svg" />
+</p>
+
 - 🔭 I’m currently working on building a webserver.
 - 🌱 I’m currently learning about a bunch of CS stuffs (Data structures / Linux & UNIx system / Memory management).
 - 👯 I’m looking to collaborate on any interesting projects, hit me up !!
